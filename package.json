@@ -1,0 +1,22 @@
+{
+  "name": "koishi-plugin-qq-group-manager",
+  "description": "处理部分入群申请、记录退群人员和记录违纪人员等。",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "4.18.9"
+  }
+}
