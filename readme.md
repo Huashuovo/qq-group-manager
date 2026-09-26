@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/koishi-plugin-qq-group-manager?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-qq-group-manager)
 
 一个面向 QQ 群的 Koishi 群管插件，提供**入群自动审核**、**退群记录**、**黑名单管理**和**退群广播**功能。
+
 入群申请老是有管理员**忘记看等级**，那些本不该能进群的人也**改个id就认不出来了**，索性写个插件自动化吧
 
 ## 功能
